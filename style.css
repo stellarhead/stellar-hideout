@@ -196,4 +196,11 @@ footer a:hover {
     cursor: pointer;
 }
 
+/* Add this to your style.css */
+.content-title h2 {
+    font-family: "Arial", sans-serif;
+    font-size: 24px; /* Adjust the size as needed */
+    font-weight: bold; /* Make it bold if desired */
+    color: #333; /* Adjust the color if needed */
+}
 
